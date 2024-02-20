@@ -7,7 +7,7 @@ body {
 }
 
 a {
-  color: inherit;
+  color: inherida;
   text-decoration: none;
 }
 
@@ -74,8 +74,8 @@ main {
 .card:hover,
 .card:focus,
 .card:active {
-  color: #0070f3;
-  border-color: #0070f3;
+  color: #800000;
+  border-color: #800000;
 }
 
 .card h2 {
